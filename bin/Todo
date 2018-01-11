@@ -1,0 +1,10 @@
+
+Todo:
+
+Allowing players choose names
+Betting (Start with point system)
+Google how to use generic constructor then modify one other thing
+
+In player, fillAndStateHand, figure out how can process generic deck
+
+Find a way to make a drawTopCard function in player (issue is passing the deck to player doesn't make sense, could be static variable)
